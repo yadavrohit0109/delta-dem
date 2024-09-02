@@ -1,2 +1,2 @@
 # delta-dem
-demo for me
+demo for me.
